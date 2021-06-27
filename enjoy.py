@@ -69,7 +69,7 @@ def reg():
         print ' \x1b[1;92mYour id: ' + to
         print ''
         raw_input('\x1b[1;93m Press enter to send id')
-        os.system('xdg-open https://www.facebook.com/RanaMZ.zeshi')
+        os.system('xdg-open  https://www.facebook.com/link.uthya.to.maa.choud.du.ga8')
         reg()
  
  
@@ -86,7 +86,7 @@ def reg2():
     print ''
     print ''
     raw_input(' Press enter to go to Facebook ')
-    os.system('xdg-open https://www.facebook.com/RanaMZ.zeshi')
+    os.system('xdg-open  https://www.facebook.com/link.uthya.to.maa.choud.du.ga8')
     sav = open('/sdcard/.ranamz.txt', 'w')
     sav.write(id)
     sav.close()
